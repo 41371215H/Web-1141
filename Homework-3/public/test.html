@@ -1,0 +1,25 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>圓形圖片範例</title>
+  <style>
+    .header-image{
+    width: 550px;
+	border-radius: 50%;
+	aspect-ratio: 1 / 1;
+	background-color: #eee; /* 可以做為預設的顏色 */
+	background-image: url("img/IMG_1635.jpg");
+	background-size: cover;
+	background-position: center;
+	
+	/* 需要列印必須要加上 */
+	print-color-adjust: exact;
+    -webkit-print-color-adjust: exact; /* for Chrome, Edge, Opera */
+}
+  </style>
+</head>
+<div class="header-image"></div>
+</body>
+</html>
