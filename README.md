@@ -11,3 +11,11 @@
 ## 作業3 個人網站 + API
 | [程式碼](https://github.com/41371215H/Web-1141/tree/main/Homework-3) | [影片連結](https://youtu.be/_BOkz5XkTpU) |
 |--|--|
+
+共修改了下列項目：
+- /public/index.html
+-- 加入了第 138 列代碼 `<div style="width: 50%; margin: 0 auto;" id="react-root"></div>`
+- /src/index.js
+-- 將 div id `react-root` 與 `AItest.js` 連接
+- /src/AItest.js
+-- 將 `AItest.tsx` 改為 JavaScript
