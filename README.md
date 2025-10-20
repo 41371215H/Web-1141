@@ -6,10 +6,10 @@
 | [專案連結](https://github.com/41371215H/1141-Web-Mainpage) | [網頁連結](https://41371215h.github.io/1141-Web-Mainpage/) |
 |--|--|
 ## 作業2 API 試作
-| [程式碼](https://github.com/41371215H/Web-1141/tree/main/Homework-2) | [影片連結](https://youtu.be/B7WB0IFZDbY) |
+| [程式碼](/Homework-2) | [影片連結](https://youtu.be/B7WB0IFZDbY) |
 |--|--|
 ## 作業3 個人網站 + API
-| [專案連結](https://github.com/41371215H/1141-Web-Mainpage-React)（README 待完成） | [影片連結](https://youtu.be/_BOkz5XkTpU) |
+| [專案連結](https://github.com/41371215H/1141-Web-Mainpage-React) | [影片連結](https://youtu.be/_BOkz5XkTpU) |
 |--|--|
 
 共修改了下列項目：
